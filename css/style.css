@@ -550,3 +550,8 @@ header {
 .footer-box form .bxs-envelope {
     color: var(--green-color);
 }
+
+.copyright {
+    text-align: center;
+    padding: 20px;
+}
